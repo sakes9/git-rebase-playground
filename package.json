@@ -9,6 +9,14 @@
   },
   "author": "",
   "license": "ISC",
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-customizable"
+    },
+    "cz-customizable": {
+      "config": ".cz-config.cjs"
+    }
+  },
   "devDependencies": {
     "commitizen": "^4.3.0",
     "cz-customizable": "^7.0.0",
