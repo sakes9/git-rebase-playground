@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "eamodio.gitlens",
+        "mhutchie.git-graph",
+        "knisterpeter.vscode-commitizen",
+        "esbenp.prettier-vscode"
+    ]
+}
